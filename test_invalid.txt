@@ -1,0 +1,12 @@
+
+Company Id: 1
+Company Name: Blue Cat Inc.
+Users Emailed:
+Users Not Emailed:
+  Total amount of top ups for Blue Cat Inc.: 0
+
+Company Id: 2
+Company Name: Yellow Mouse Inc.
+Users Emailed:
+Users Not Emailed:
+  Total amount of top ups for Yellow Mouse Inc.: 0

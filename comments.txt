@@ -1,0 +1,18 @@
+
+Implementation
+  I chose to implement this exercise using classes.
+  I made the program run using objects as it was easier to test
+    and run this way
+  If I had more time, I would have tested the presence and validation
+    of the inputs.
+
+Thoughts
+  I instinctively wanted to use Rails. As it would make alot of the
+  code alot easier to understand and implement.
+    - The json files could easily have been translated to records in the
+      database.
+    - The challenge.rb would have been a service that made the output.txt.
+    - validations and presence in input would have been much easier as it would have
+      been taken care by ActiveRecord.
+
+  I did not have too much time to pivot and implement it this way.

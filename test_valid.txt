@@ -1,0 +1,18 @@
+
+Company Id: 1
+Company Name: Blue Cat Inc.
+Users Emailed:
+Users Not Emailed:
+  Jackson, Brian, brian.jackson@notreal.com
+    Previous Token Balance, 100
+    New Token Balance 100
+  Total amount of top ups for Blue Cat Inc.: 0
+
+Company Id: 2
+Company Name: Yellow Mouse Inc.
+Users Emailed:
+  Nichols, Tanya, tanya.nichols@test.com
+    Previous Token Balance, 23
+    New Token Balance 60
+Users Not Emailed:
+  Total amount of top ups for Yellow Mouse Inc.: 37
